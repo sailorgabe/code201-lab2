@@ -1,6 +1,14 @@
+header {
+    background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0d%2FRonda_%252848088364%2529_%2528cropped%2529.jpeg%2F640px-Ronda_%252848088364%2529_%2528cropped%2529.jpeg&tbnid=YFrqZIUQPQAzLM&vet=12ahUKEwjNua6L24-CAxW7xckDHWhcBjUQMygCegQIARB4..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRonda&docid=iJD8E1kS5YXJFM&w=640&h=224&q=Ronda%20spain&hl=en&ved=2ahUKEwjNua6L24-CAxW7xckDHWhcBjUQMygCegQIARB4'); /* Adjust the path according to your directory structure */
+    background-size: cover; /* This will ensure the image covers the entire width of the header */
+    background-repeat: no-repeat; /* This will prevent the image from repeating if it's too small for the container */
+    background-position: center center; /* This will center the image in the header */
+    height: 300px; /* Adjust according to your desired header height source chatGPT. */
+}
 body {
     font-family: Arial, sans-serif;
     padding: 20px;
+    background-color: bisque; /*this is my background color */
 }
 
 h1, h2 {
