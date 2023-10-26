@@ -1,5 +1,7 @@
 # "About Me"
 
+Andrea and Gabriel refactor with functions.
+
 > My name is Gabriel Urquidez.  I am part Indigenous and part Basque. I was born in the small southwestern town of Hobbs, NM. After my mother passed in 1983, I moved to Northern California and grew up in San Jose, CA. I was fortunate enough to attend UC Davis, where I earned my BA in Philosophy.  I always thought I wanted to be a lawyer, but once I did some law internship work, I realized writing VCR instructions wasn't for me.  After 9/11, I decided to serve my country and enlisted in the Navy.  After 20 years, I retired. During those 20 years, I got married and had 3 amazing daughters.  I earned two masters degrees in Healthcare Admin and Network Operations & Technology. I am currently in the process of moving back to California from Texas.  I hope to be there by Thanksgiving.
 
 ## My Education
